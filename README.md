@@ -2,6 +2,4 @@
 
 made using Selenium WebDriver
 
-
-
-!(video)[https://imgur.com/FhQwGcT]
+![Imgur Image](https://imgur.com/FhQwGcT.mov)
